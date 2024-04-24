@@ -1,0 +1,195 @@
+{
+    "questions": [
+      {
+        "question": "What does Node.js use to manage asynchronous operations?",
+        "choices": ["Promises", "Callbacks", "Async/Await"],
+        "correctAnswer": "Callbacks"
+      },
+      {
+        "question": "Which core module in Node.js is used to create a web server?",
+        "choices": ["http", "fs", "path"],
+        "correctAnswer": "http"
+      },
+      {
+        "question": "Which method is used to include additional modules in Node.js?",
+        "choices": ["require()", "import", "include()"],
+        "correctAnswer": "require()"
+      },
+      {
+        "question": "What does npm stand for?",
+        "choices": ["Node Package Manager", "Node Project Manager", "Node Package Module"],
+        "correctAnswer": "Node Package Manager"
+      },
+      {
+        "question": "Which event is emitted when an error occurs in Node.js streams?",
+        "choices": ["data", "error", "end"],
+        "correctAnswer": "error"
+      },
+      {
+        "question": "What is the purpose of the 'fs' module in Node.js?",
+        "choices": ["To handle file system operations", "To create web servers", "To handle HTTP requests"],
+        "correctAnswer": "To handle file system operations"
+      },
+      {
+        "question": "What does the 'path' module in Node.js provide?",
+        "choices": ["Utility functions for working with file paths", "Functions for generating random numbers", "Functions for performing mathematical calculations"],
+        "correctAnswer": "Utility functions for working with file paths"
+      },
+      {
+        "question": "What does the 'process' object in Node.js represent?",
+        "choices": ["The current process running the Node.js application", "The user's computer", "The browser environment"],
+        "correctAnswer": "The current process running the Node.js application"
+      },
+      {
+        "question": "Which method is used to handle asynchronous errors in Node.js?",
+        "choices": ["try...catch", "catchError", "callback functions"],
+        "correctAnswer": "try...catch"
+      },
+      {
+        "question": "What is the purpose of the 'util' module in Node.js?",
+        "choices": ["Provides utility functions for formatting and debugging", "To interact with the file system", "To handle HTTP requests"],
+        "correctAnswer": "Provides utility functions for formatting and debugging"
+      },
+      {
+        "question": "What is the purpose of the 'os' module in Node.js?",
+        "choices": ["To provide information about the computer's operating system", "To create web servers", "To handle file system operations"],
+        "correctAnswer": "To provide information about the computer's operating system"
+      },
+      {
+        "question": "Which method is used to spawn child processes in Node.js?",
+        "choices": ["spawn()", "fork()", "exec()"],
+        "correctAnswer": "spawn()"
+      },
+      {
+        "question": "What does the 'crypto' module in Node.js provide?",
+        "choices": ["Provides cryptographic functionality", "To handle file system operations", "To create web servers"],
+        "correctAnswer": "Provides cryptographic functionality"
+      },
+      {
+        "question": "What is the purpose of the 'url' module in Node.js?",
+        "choices": ["To parse URL strings", "To create web servers", "To interact with the file system"],
+        "correctAnswer": "To parse URL strings"
+      },
+      {
+        "question": "What is the purpose of the 'cluster' module in Node.js?",
+        "choices": ["To enable load balancing across multiple CPU cores", "To interact with the file system", "To handle HTTP requests"],
+        "correctAnswer": "To enable load balancing across multiple CPU cores"
+      },
+      {
+        "question": "What does the 'querystring' module in Node.js provide?",
+        "choices": ["To parse and stringify URL query strings", "To create web servers", "To handle file system operations"],
+        "correctAnswer": "To parse and stringify URL query strings"
+      },
+      {
+        "question": "What is the purpose of the 'assert' module in Node.js?",
+        "choices": ["To perform assertions for testing", "To interact with the file system", "To handle HTTP requests"],
+        "correctAnswer": "To perform assertions for testing"
+      },
+      {
+        "question": "Which core module in Node.js is used for interacting with the file system?",
+        "choices": ["fs", "http", "path"],
+        "correctAnswer": "fs"
+      },
+      {
+        "question": "What is the default package manager for Node.js?",
+        "choices": ["npm", "yarn", "bower"],
+        "correctAnswer": "npm"
+      },
+      {
+        "question": "What does the 'events' module in Node.js provide?",
+        "choices": ["A way to handle and respond to events", "To interact with the file system", "To create web servers"],
+        "correctAnswer": "A way to handle and respond to events"
+      },
+      {
+        "question": "Which method is used to read environment variables in Node.js?",
+        "choices": ["process.env", "readEnv()", "getEnv()"],
+        "correctAnswer": "process.env"
+      },
+      {
+        "question": "What is the purpose of the 'dns' module in Node.js?",
+        "choices": ["To perform DNS lookups and name resolution", "To interact with the file system", "To handle HTTP requests"],
+        "correctAnswer": "To perform DNS lookups and name resolution"
+      },
+      {
+        "question": "Which core module in Node.js is used for handling streams?",
+        "choices": ["stream", "fs", "http"],
+        "correctAnswer": "stream"
+      },
+      {
+        "question": "What is the purpose of the 'zlib' module in Node.js?",
+        "choices": ["To provide compression and decompression functionality", "To create web servers", "To interact with the file system"],
+        "correctAnswer": "To provide compression and decompression functionality"
+      },
+      {
+        "question": "What does the 'child_process' module in Node.js provide?",
+        "choices": ["To spawn child processes", "To handle file system operations", "To create web servers"],
+        "correctAnswer": "To spawn child processes"
+      },
+      {
+        "question": "What does the 'buffer' module in Node.js provide?",
+        "choices": ["To handle binary data", "To create web servers", "To interact with the file system"],
+        "correctAnswer": "To handle binary data"
+      },
+      {
+        "question": "What is the purpose of the 'tls' module in Node.js?",
+        "choices": ["To provide secure communication over TLS/SSL protocols", "To interact with the file system", "To create web servers"],
+        "correctAnswer": "To provide secure communication over TLS/SSL protocols"
+      },
+      {
+        "question": "Which method is used to handle errors in asynchronous functions in Node.js?",
+        "choices": ["try...catch", "catchError", "callback functions"],
+        "correctAnswer": "try...catch"
+      },
+      {
+        "question": "What is the purpose of the 'stream' module in Node.js?",
+        "choices": ["To handle streaming data", "To create web servers", "To interact with the file system"],
+        "correctAnswer": "To handle streaming data"
+      },
+      {
+        "question": "What does the 'http' module in Node.js provide?",
+        "choices": ["To create HTTP servers and clients", "To interact with the file system", "To handle DNS lookups"],
+        "correctAnswer": "To create HTTP servers and clients"
+      },
+      {
+        "question": "Which method is used to write to the console in Node.js?",
+        "choices": ["console.log()", "print()", "write()"],
+        "correctAnswer": "console.log()"
+      },
+      {
+        "question": "What is the purpose of the 'url' module in Node.js?",
+        "choices": ["To parse URL strings", "To create web servers", "To interact with the file system"],
+        "correctAnswer": "To parse URL strings"
+      },
+      {
+        "question": "What does the 'util' module in Node.js provide?",
+        "choices": ["Provides utility functions for formatting and debugging", "To interact with the file system", "To create web servers"],
+        "correctAnswer": "Provides utility functions for formatting and debugging"
+      },
+      {
+        "question": "What is the purpose of the 'events' module in Node.js?",
+        "choices": ["A way to handle and respond to events", "To interact with the file system", "To create web servers"],
+        "correctAnswer": "A way to handle and respond to events"
+      },
+      {
+        "question": "Which method is used to concatenate two or more arrays in Node.js?",
+        "choices": ["concat()", "join()", "splice()"],
+        "correctAnswer": "concat()"
+      },
+      {
+        "question": "What is the purpose of the 'os' module in Node.js?",
+        "choices": ["To provide information about the computer's operating system", "To create web servers", "To handle file system operations"],
+        "correctAnswer": "To provide information about the computer's operating system"
+      },
+      {
+        "question": "What does the 'querystring' module in Node.js provide?",
+        "choices": ["To parse and stringify URL query strings", "To create web servers", "To handle file system operations"],
+        "correctAnswer": "To parse and stringify URL query strings"
+      },
+      {
+        "question": "What is the purpose of the 'crypto' module in Node.js?",
+        "choices": ["Provides cryptographic functionality", "To handle file system operations", "To create web servers"],
+        "correctAnswer": "Provides cryptographic functionality"
+      }
+    ]
+  }
+  
